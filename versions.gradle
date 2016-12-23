@@ -1,0 +1,11 @@
+ext {
+    supportVersion = '25.1.0'
+    butterKnifeVersion = '8.4.0'
+    glideVersion = '3.7.0'
+
+    okhttpVersion = '3.4.1'
+    retrofitVersion = '2.1.0'
+    rxandroidVersion = '1.2.1'
+    rxjavaVersion = '1.1.6'
+    rxBindingVersion = '1.0.0'
+}
